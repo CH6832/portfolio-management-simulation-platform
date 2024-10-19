@@ -1,0 +1,11 @@
+returns.csv
+This file contains synthetic daily return data for 10 financial assets over 1000 days. 
+The data is generated from a normal distribution with a mean of 0.001 and a standard deviation of 0.02. 
+Each column represents an asset, labeled as Asset_1 to Asset_10.
+
+The entries in the CSV file represent the daily returns for each asset. 
+These values can be utilized for portfolio optimization tasks, risk assessment, and performance evaluation.
+
+Data Structure:
+- Columns: Asset_1, Asset_2, ..., Asset_10
+- Rows: Daily returns for each asset over a period of 1000 days

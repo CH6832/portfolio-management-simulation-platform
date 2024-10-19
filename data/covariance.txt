@@ -1,0 +1,10 @@
+covariance.csv
+This file contains a synthetic covariance matrix for 10 financial assets. 
+The covariance matrix is generated to be positive semi-definite, reflecting the variance and covariance relationships among the assets.
+
+The matrix is structured such that the diagonal entries represent the variances of each asset's returns, 
+while the off-diagonal entries indicate the covariances between different assets.
+
+Data Structure:
+- Columns and Rows: Asset_1, Asset_2, ..., Asset_10
+- Values: Covariance between assets (positive semi-definite matrix)
