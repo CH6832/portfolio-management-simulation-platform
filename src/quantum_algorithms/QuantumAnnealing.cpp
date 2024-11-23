@@ -1,4 +1,4 @@
-#include "QuantumAnnealing.h"
+#include "QuantumAnnealing.hpp"
 #include <boost/random.hpp>
 #include <iostream>
 
